@@ -2,7 +2,124 @@
 Python-One-Stop is the 1st of the One-Stop Solution's Series where you will find each and everything related to python.
 ***This list is continuously updated.*** - You can take pull request and contribute.
 
-| Sr No | Name                                                         | Link                                |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 1. Coding Resources
+
+## 1.1 Python
+-  **Tutorials**
+
+	- [Learn Python | CodeAcademy](https://www.codecademy.com/learn/learn-python)
+	- [Progate Python Classes](https://progate.com/languages/python) :baby:
+	- [Video Tutorial for absolute beginners | YouTube](http://bit.ly/2NkrsKh) :baby:
+	- [Intro to Python | Udacity](https://in.udacity.com/course/introduction-to-python--ud1110-india) :free:
+	- [Python For Everybody](https://www.coursera.org/specializations/python)
+	- [Write Better Python Functions](https://jeffknupp.com/)
+	- [Learning Python: From Zero to Hero](https://medium.freecodecamp.org/learning-python-from-zero-to-hero-120ea540b567)
+	- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - Recommended
+	- [The New Boston Python | Youtube](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_) :baby:
+	- [Think Python 2e - Green Tea Press](http://greenteapress.com/thinkpython2/thinkpython2.pdf)
+	- [A Byte of Python](https://python.swaroopch.com/)
+	- [Project Euler](https://projecteuler.net/) - Great for practicing writing Python codes
+	- [A Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython)
+	- [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+	- [Python Class By Google](https://developers.google.com/edu/python/) - Recommended
+	- [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+	- [Python 3 for humans that want practical project exposure](https://pythonprogramming.net/)
+	- [Learn Python the Hard Way](https://learnpythonthehardway.org/)
+
+
+-  **Best GitHub Repositories to follow**
+     - [The Algorithms Python](https://github.com/TheAlgorithms/Python)
+     
+     
+     
+ ### Python free-programming-playgrounds
+
+* [Codepad](http://codepad.org)
+* [Python Trinket](https://trinket.io/python)
+* [Python.org Shell](https://www.python.org/shell)
+* [Repl.it - NiceDualPoin](https://repl.it/repls/NiceDualPoint#main.py)
+* [SoloLearn](https://code.sololearn.com/#py)
+     
+     
+  ### Python free-programming-interactive-tutorials
+* [Codecademy Python course](https://www.codecademy.com/learn/python)
+* [How to Think Like a Computer Scientist: Learning with Python, Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html)
+* [Learn Python](http://www.learnpython.org)
+* [Learn Python Step by Step](http://www.techbeamers.com/python-tutorial-step-by-step)
+* [Python for Everybody - Interactive](https://runestone.academy/runestone/books/published/py4e-int/index.html) - Barbara Ericson
+* [Python Koans](https://github.com/gregmalcolm/python_koans)
+* [Python Pandas Tutorial: A Complete Introduction for Beginners](https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/) - George     McIntire, Brendan Martin, Lauren Washington
+* [Python Tutorial](https://www.w3schools.com/python) - W3Schools
+
+
+# Python Competitive-Programming
+- https://docs.python.org/3/index.html
+- https://developers.google.com/edu/python/
+- https://pythonschool.net/
+- https://medium.com/@ageitgey/quick-tip-speed-up-your-python-data-processing-scripts-with-process-pools-cf275350163a
+- https://github.com/LambdaSchool/Intro-Python-I
+- https://automatetheboringstuff.com/
+- https://realpython.com
+- https://awesome-python.com/
+- https://tutorial.djangogirls.org/en/
+- https://www.learnpython.org/
+- https://www.programiz.com/
+
+
+# 30-Days-Of-Python
+- https://github.com/Asabeneh/30-Days-Of-Python
+
+# Pythonfor every1
+- https://github.com/Asabeneh/Python-for-Everyone
+
+# Python-programming-exercises
+- https://github.com/zhiwehu/Python-programming-exercises
+# Complete-Python-3-Bootcamp
+- https://github.com/just-started/Complete-Python-3-Bootcamp
+
+# TheAlgorithms
+- https://github.com/just-started/Python
+
+# python-telegram-bot
+-https://github.com/python-telegram-bot/python-telegram-bot
+
+# Python Cheatsheets
+- https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/python.md
+
+# Pytudes
+-https://github.com/jodiemorton/pytudes
+# Introduction to python
+-https://github.com/jodiemorton/introduction-to-python
+
+# Practical Python
+-https://github.com/jodiemorton/practical-python
+
+
+| 55    | 25 + Python Projects                                         | https://bit.ly/353fRpK              |
+| 7     | 30 Python Project Solved and Explained                       | [is.gd/xhT36v](http://is.gd/xhT36v) |
+| 9     | 5 Web Scraping Projects with Python                          | [is.gd/6XOTSn](http://is.gd/6XOTSn) |
+| 11    | 4 Chatbot Project With Python                                | [is.gd/LyZfXv](http://is.gd/LyZfXv) |
+| 12    | 7 Python Gui project                                         | [is.gd/0KPBvP](http://is.gd/0KPBvP) |
+| 19    | 5 COVID19 Projects with Python                               | [is.gd/xFCnYi](http://is.gd/xFCnYi) |
+| 38    | 1000 + Python Project Codes                                  | https://bit.ly/3oca2xM              |
+
+| Sr No | Name  | Link                                |
 | ----- | ------------------------------------------------------------ | ----------------------------------- |
 | 1     | 180 Machine learning Project                                 | [is.gd/MLtyGk](http://is.gd/MLtyGk) |
 | 2     | 12 Machine learning Object Detection                         | [is.gd/jZMP1A](http://is.gd/jZMP1A) |
@@ -13,7 +130,8 @@ Python-One-Stop is the 1st of the One-Stop Solution's Series where you will find
 | 7     | 30 Python Project Solved and Explained                       | [is.gd/xhT36v](http://is.gd/xhT36v) |
 | 8     | Machine learning Course for Free                             | https://lnkd.in/ekCY8xw             |
 | 9     | 5 Web Scraping Projects with Python                          | [is.gd/6XOTSn](http://is.gd/6XOTSn) |
-| 10    | 20 Machine Learning Projects on Future Prediction with Python | [is.gd/xDKDkl](http://is.gd/xDKDkl) |
+
+| 55    | 25 + Python Projects                                         | https://bit.ly/353fRpK              |
 | 11    | 4 Chatbot Project With Python                                | [is.gd/LyZfXv](http://is.gd/LyZfXv) |
 | 12    | 7 Python Gui project                                         | [is.gd/0KPBvP](http://is.gd/0KPBvP) |
 | 13    | All Unsupervised learning Projects                           | [is.gd/cz11Kv](http://is.gd/cz11Kv) |
@@ -56,8 +174,8 @@ Python-One-Stop is the 1st of the One-Stop Solution's Series where you will find
 | 50    | 120 + Multi Model Machine learning Code Projects             | https://bit.ly/38QRI76              |
 | 51    | Awesome Chatbot Projects                                     | https://bit.ly/3rQyxmE              |
 | 52    | Awesome ML Demo Project with iOS                             | https://bit.ly/389hZOY              |
-| 53    | 100 + Python based Machine learning Application Projects     | https://bit.ly/3n9zLWv              |
-| 54    | 100 + Reproducible Research Projects of ML and DL            | https://bit.ly/2KQ0J8C              |
+
+
 | 55    | 25 + Python Projects                                         | https://bit.ly/353fRpK              |
 | 56    | 8 + OpenCV Projects                                          | https://bit.ly/389mj0B              |
 | 57    | 1000 + Awesome Deep learning Collection                      | https://bit.ly/3b0a9Jj              |
@@ -67,4 +185,5 @@ Python-One-Stop is the 1st of the One-Stop Solution's Series where you will find
 | 61    | 364 + Machine Learning Projects definition                   | https://bit.ly/2X5QRdb              |
 | 62    | 300+ Google Earth Engine Jupyter Notebooks to Analyze Geospatial Data | https://bit.ly/387JwjC              |
 | 63    | 1000 + Machine learning Projects Information                 | https://bit.ly/3rMGk4N              |
+
 
