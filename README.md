@@ -19,7 +19,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 1.  [Coding Resources - How to learn xyz ](#1-coding-resources)
 
      - [Python](#11-python)
-     - [Python free-programming-playgrounds](#12Python free-programming-playgrounds)
+     - [Python free-programming-playgrounds](#12-Python free-programming-playgrounds)
      - [Deep Learning](#13-deep-learning)
      - [Android Development](#14-android-development)
      - [Backend Development ](#15-backend-development)
