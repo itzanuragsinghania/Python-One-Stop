@@ -10,38 +10,19 @@ Python-One-Stop is the 1st of the One-Stop Solution's Series where you will find
 
 When I was in college, I missed a lot of opportunities like hackathons, conferences, internships and many global events due to lack of awareness. I don't want the emerging developers to suffer the same as me. Hence, I and a bunch of other developers around have collected a list of resources for students. If you are in college, a college graduate, or just starting out as a developer, you should definitely check it out!
 
-![Image](res/frontb.png)
+
 
 *Image credits: Google*
 
-## Table of Contents :clipboard:
-
-1.  [Coding Resources - How to learn xyz ](#1-coding-resources)
-
-     - [Python](#11-python)
-     - [Python free-programming-playgrounds](#12-Python-free-programming-playgrounds)
-     - [Deep Learning](#13-deep-learning)
-     - [Android Development](#14-android-development)
-     - [Backend Development ](#15-backend-development)
-     - [Frontend Web Development](#16-frontend-web-development)
-     - [Full-stack Web Development](#122-full-stack-web-development)
-     - [Data Structures](#17-data-structures) :chart_with_upwards_trend:
-     - [Alexa Tutorials](#18-alexa-tutorials)
-     - [C Language](#19-c-language)
-     - [C++ Language](#110-c-language)
-     - [Git and Github](#111-git-and-github)
-     - [R Language](#112-r-language)
-     - [Haskell](#113-haskell)
-     - [MongoDB](#114-mongodb)
-     - [Prolog](#115-prolog)
-     - [C# Language](#116-c-language)
-     - [DevDocs](#117-devdocs)
-     - [Docker](#118-docker)
-     - [Microsoft Technologies](#119-microsoft-technologies)
-     - [Scala](#120-scala)
-     - [Programming Notes for Professionals](#121-programming-notes-for-professionals)
-     - [MATLAB/Octave](#122-matlaboctave)
-     - [Go Language](#123-go-language)
+# Table of Contents :clipboard:
+* [Python](#python)
+  * [Built With](#built-with)
+* [Getting Started](#getting-started)
+* [Usage](#usage)
+* [Contributing](#contributing)
+* [License](#license)
+* [Contact](#contact)
+* [Acknowledgements](#acknowledgements)
 
 
 
@@ -59,9 +40,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 
 
-# 1. Coding Resources
 
-## 1.1 Python
+
+## Python
 -  **Tutorials**
 
 	- [Learn Python | CodeAcademy](https://www.codecademy.com/learn/learn-python)
