@@ -1,6 +1,47 @@
 # Python-One-Stop
 Python-One-Stop is the 1st of the One-Stop Solution's Series where you will find each and everything related to python.
 ***This list is continuously updated.*** - You can take pull request and contribute.
+# A to Z Resources for Students :boy: ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+[![GitHub license](https://img.shields.io/github/license/dipakkr/A-to-Z-Resources-for-Students.svg?style=plastic)](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=plastic)](https://github.com/dipakkr/A-to-Z-Resources-for-Students/pulls)
+[![Reviewed by Hound](https://img.shields.io/badge/Reviewed_by-Hound-8E64B0.svg?style=plastic)](https://houndci.com)
+
+### Are you a college student or a working professional looking for resources to learn a new coding language? Are you looking to meet new people in your community or searching for global conferences, hackathons and competitions to attend? If so, you should definitely check this out.
+
+When I was in college, I missed a lot of opportunities like hackathons, conferences, internships and many global events due to lack of awareness. I don't want the emerging developers to suffer the same as me. Hence, I and a bunch of other developers around have collected a list of resources for students. If you are in college, a college graduate, or just starting out as a developer, you should definitely check it out!
+
+![Image](res/frontb.png)
+
+*Image credits: Google*
+
+## Table of Contents :clipboard:
+
+1.  [Coding Resources - How to learn xyz ](#1-coding-resources)
+
+     - [Python](#11-python)
+     - [Machine Learning](#12-machine-learning)
+     - [Deep Learning](#13-deep-learning)
+     - [Android Development](#14-android-development)
+     - [Backend Development ](#15-backend-development)
+     - [Frontend Web Development](#16-frontend-web-development)
+     - [Full-stack Web Development](#122-full-stack-web-development)
+     - [Data Structures](#17-data-structures) :chart_with_upwards_trend:
+     - [Alexa Tutorials](#18-alexa-tutorials)
+     - [C Language](#19-c-language)
+     - [C++ Language](#110-c-language)
+     - [Git and Github](#111-git-and-github)
+     - [R Language](#112-r-language)
+     - [Haskell](#113-haskell)
+     - [MongoDB](#114-mongodb)
+     - [Prolog](#115-prolog)
+     - [C# Language](#116-c-language)
+     - [DevDocs](#117-devdocs)
+     - [Docker](#118-docker)
+     - [Microsoft Technologies](#119-microsoft-technologies)
+     - [Scala](#120-scala)
+     - [Programming Notes for Professionals](#121-programming-notes-for-professionals)
+     - [MATLAB/Octave](#122-matlaboctave)
+     - [Go Language](#123-go-language)
 
 
 
