@@ -15,32 +15,18 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 *Image credits: Google*
 
 # Table of Contents :clipboard:
-* [Python](#python)
-  * [Built With](#built-with)
-* [Getting Started](#getting-started)
-* [Usage](#usage)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* [Python-Tutorials](#python)
+* [Free Interactive Tutorials](#python-free-programming-interactive-tutorials)
+* [Free Playgrounds](#python-free-programming-playgrounds)
+* [Competitive Programming](#python-competitive-programming)
+* [Algorithms](#algorithms)
+* [30 days of Python](#30-days-Of-python)
+* [Cheatsheets](#cheatsheets)
+* [Pytudes](#pytudes)
+* [Complete Python 3 Bootcamp](#complete-python-3-bootcamp)
+* [Intro to Python](#introduction-to-python)
+* [Practical Python](#practical-python)
+* [Python Projects](#python-projects)
 
 ## Python
 -  **Tutorials**
@@ -64,77 +50,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 	- [Python 3 for humans that want practical project exposure](https://pythonprogramming.net/)
 	- [Learn Python the Hard Way](https://learnpythonthehardway.org/)
 
-
--  **Best GitHub Repositories to follow**
-     - [The Algorithms Python](https://github.com/TheAlgorithms/Python)
-     
-     
-     
- ## 1.2 Python free-programming-playgrounds
-
-* [Codepad](http://codepad.org)
-* [Python Trinket](https://trinket.io/python)
-* [Python.org Shell](https://www.python.org/shell)
-* [Repl.it - NiceDualPoin](https://repl.it/repls/NiceDualPoint#main.py)
-* [SoloLearn](https://code.sololearn.com/#py)
-     
-     
-  ## Python free-programming-interactive-tutorials
-* [Codecademy Python course](https://www.codecademy.com/learn/python)
-* [How to Think Like a Computer Scientist: Learning with Python, Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html)
-* [Learn Python](http://www.learnpython.org)
-* [Learn Python Step by Step](http://www.techbeamers.com/python-tutorial-step-by-step)
-* [Python for Everybody - Interactive](https://runestone.academy/runestone/books/published/py4e-int/index.html) - Barbara Ericson
-* [Python Koans](https://github.com/gregmalcolm/python_koans)
-* [Python Pandas Tutorial: A Complete Introduction for Beginners](https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/) - George     McIntire, Brendan Martin, Lauren Washington
-* [Python Tutorial](https://www.w3schools.com/python) - W3Schools
-
-
-## Python Competitive-Programming
-- https://docs.python.org/3/index.html
-- https://developers.google.com/edu/python/
-- https://pythonschool.net/
-- https://medium.com/@ageitgey/quick-tip-speed-up-your-python-data-processing-scripts-with-process-pools-cf275350163a
-- https://github.com/LambdaSchool/Intro-Python-I
-- https://automatetheboringstuff.com/
-- https://realpython.com
-- https://awesome-python.com/
-- https://tutorial.djangogirls.org/en/
-- https://www.learnpython.org/
-- https://www.programiz.com/
-
-
-## 30-Days-Of-Python
-- https://github.com/Asabeneh/30-Days-Of-Python
-
-## Pythonfor every1
-- https://github.com/Asabeneh/Python-for-Everyone
-
-## Python-programming-exercises
-- https://github.com/zhiwehu/Python-programming-exercises
-## Complete-Python-3-Bootcamp
-- https://github.com/just-started/Complete-Python-3-Bootcamp
-
-## TheAlgorithms
-- https://github.com/just-started/Python
-
-## python-telegram-bot
--https://github.com/python-telegram-bot/python-telegram-bot
-
-## Python Cheatsheets
-- https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/python.md
-
-## Pytudes
--https://github.com/jodiemorton/pytudes
-## Introduction to python
--https://github.com/jodiemorton/introduction-to-python
-
-## Practical Python
--https://github.com/jodiemorton/practical-python
-
-
-### Python more
-
+-  **More-Tutorials**
 * [An Introduction to Interactive Programming in Python (Part 1)](https://www.coursera.org/learn/interactive-python-1) (Coursera)
 * [An Introduction to Interactive Programming in Python (Part 2)](https://www.coursera.org/learn/interactive-python-2) (Coursera)
 * [Bento Python Learning Track](https://bento.io/topic/python) (Bento)
@@ -173,9 +89,69 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 * [The Python Tutorial](https://docs.python.org/3/tutorial/)
 * [Using Python for Research](https://www.edx.org/course/using-python-for-research) (edX Harvard)
 
+-  **Best GitHub Repositories to follow**
+     - [The Algorithms Python](https://github.com/TheAlgorithms/Python)
+     
+     
+ ## Python-free-programming-interactive-tutorials
+* [Codecademy Python course](https://www.codecademy.com/learn/python)
+* [How to Think Like a Computer Scientist: Learning with Python, Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html)
+* [Learn Python](http://www.learnpython.org)
+* [Learn Python Step by Step](http://www.techbeamers.com/python-tutorial-step-by-step)
+* [Python for Everybody - Interactive](https://runestone.academy/runestone/books/published/py4e-int/index.html) - Barbara Ericson
+* [Python Koans](https://github.com/gregmalcolm/python_koans)
+* [Python Pandas Tutorial: A Complete Introduction for Beginners](https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/) - George     McIntire, Brendan Martin, Lauren Washington
+* [Python Tutorial](https://www.w3schools.com/python) - W3Schools
+         
+ ##  Python free-programming-playgrounds
 
+* [Codepad](http://codepad.org)
+* [Python Trinket](https://trinket.io/python)
+* [Python.org Shell](https://www.python.org/shell)
+* [Repl.it - NiceDualPoin](https://repl.it/repls/NiceDualPoint#main.py)
+* [SoloLearn](https://code.sololearn.com/#py)
 
+## Python Competitive-Programming
+- https://docs.python.org/3/index.html
+- https://developers.google.com/edu/python/
+- https://pythonschool.net/
+- https://medium.com/@ageitgey/quick-tip-speed-up-your-python-data-processing-scripts-with-process-pools-cf275350163a
+- https://github.com/LambdaSchool/Intro-Python-I
+- https://automatetheboringstuff.com/
+- https://realpython.com
+- https://awesome-python.com/
+- https://tutorial.djangogirls.org/en/
+- https://www.learnpython.org/
+- https://www.programiz.com/
 
+## Algorithms
+- https://github.com/just-started/Python
+
+## 30-Days-Of-Python
+- https://github.com/Asabeneh/30-Days-Of-Python
+
+## Cheatsheets
+- https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/python.md
+
+## Pytudes
+- https://github.com/jodiemorton/pytudes
+
+## Complete-Python-3-Bootcamp
+- https://github.com/just-started/Complete-Python-3-Bootcamp
+
+## Introduction to python
+-https://github.com/jodiemorton/introduction-to-python
+
+## Practical Python
+-https://github.com/jodiemorton/practical-python
+
+## Pythonfor every1
+- https://github.com/Asabeneh/Python-for-Everyone
+
+## Python-programming-exercises
+- https://github.com/zhiwehu/Python-programming-exercises
+
+### Python Projects
 | Sr No | Name  | Link                                |
 | ----- | ------------------------------------------------------------ | ----------------------------------- |
 | 1     | 25 + Python Projects                                         | https://bit.ly/353fRpK              |
@@ -185,6 +161,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 | 5     | 7 Python Gui project                                         | [is.gd/0KPBvP](http://is.gd/0KPBvP) |
 | 6     | 5 COVID19 Projects with Python                               | [is.gd/xFCnYi](http://is.gd/xFCnYi) |
 | 7     | 1000 + Python Project Codes                                  | https://bit.ly/3oca2xM              |
+| 8     | Python Telegram Bot                                          | https://bit.ly/3qdNygC|
 
 
 
